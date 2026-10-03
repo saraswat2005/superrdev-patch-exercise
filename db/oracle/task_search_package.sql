@@ -74,3 +74,4 @@ CREATE OR REPLACE PACKAGE BODY task_search_pkg AS
     END search_tasks;
 
 END task_search_pkg;
+/
